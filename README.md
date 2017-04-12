@@ -1,3 +1,4 @@
-# My Awesome Book
+# JVM进阶笔记
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+本笔记是我的JVM进阶笔记，重新处理JVM基础，目标是JVM但不限于JVM。
+
